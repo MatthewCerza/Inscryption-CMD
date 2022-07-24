@@ -6,7 +6,7 @@ Created as a final project for CSCI 1300 at CU Boulder.
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 inscryption-cmd.cpp Card.cpp Board.cpp Combat.cpp Map.cpp Player.cpp Campfire.cpp -o proj3 **Enter**
+Compile: g++ -std=c++17 inscryption-cmd.cpp Card.cpp Board.cpp Combat.cpp Map.cpp Player.cpp Campfire.cpp -o proj3  
 Run: ./proj3
 
 ------------------------
@@ -17,10 +17,10 @@ Card.cpp, Board.cpp, Combat.cpp, Map.cpp, Player.cpp, and their corresponding .h
 ------------------------
 SUBMISSION INFORMATION
 ------------------------
-CSCI1300 Spring 2022 Project 3
-Author: Matthew Cerza
-Recitation: 202 - Alex Ray
-Date: April 21, 2022
+CSCI1300 Spring 2022 Project 3  
+Author: Matthew Cerza  
+Recitation: 202 - Alex Ray  
+Date: April 21, 2022  
 
 ------------------------
 
