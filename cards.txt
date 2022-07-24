@@ -1,0 +1,13 @@
+Stoat,3,1,,The swift stoat. A feeble yet resilient forest-going creature.,1,true
+Wolf,2,3,Leader,The tenacious wolf. It's presense inspires confidince on creatures near it.,2,false
+Stinkbug,2,1,Stinky,The smelly stinkbug. Creatures opposing it - even strong ones - fear it's wretched scent.,1,true
+Elk,4,2,Sprinter,The flightly Elk. It attempts to move to the right after each turn.,2,false
+Adder,1,1,Touch of Death,The caustic Adder. It's fangs poison and kill any creature it touches.,2,false
+Kingfisher,1,1,Waterborne,The nimble Kingfisher. It's agility lets it dive under the attacks of enemy creatures.,1,false
+Grizzly,6,4,,The monstrous Grizzly. It's mere presense makes other creatures shudder in fear.,3,false
+Bloodhound,3,2,,The vicious Bloodhound. Loyal and ferocious companions.,2,false
+Raven,3,2,Airborne,The impossibly swift Raven. It flies over opposing creatures to attack the opponent directly.,2,false
+Eagle,3,3,,A symbol of freedom. The Bald Eagle decimates others in it's path.,1,false
+Amalgam,3,3,,Avian - Canine - Hooved - Reptile - Insect - Squirrel. The Amalgam is ALL.,2,false
+Stunted Wolf,2,2,,An older and hindrered Wolf. Stunted if you will. But can it still fight?,1,false
+Mole,6,0,,The stalwart Mole - the ultimate defense. Few creatures can penetrate through it's vast tunnel network.,1,false

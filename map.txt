@@ -1,0 +1,10 @@
+The Snow Line
+card/campfire
+battle
+campfire/card
+campfire/card
+battle
+battle
+card/card
+boss
+battle
