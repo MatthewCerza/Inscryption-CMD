@@ -23,6 +23,4 @@ Recitation: 202 - Alex Ray
 Date: April 21, 2022
 
 ------------------------
-ABOUT THIS PROJECT
-------------------------
 
