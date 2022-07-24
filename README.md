@@ -6,7 +6,7 @@ Created as a final project for CSCI 1300 at CU Boulder.
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 inscryption-cmd.cpp Card.cpp Board.cpp Combat.cpp Map.cpp Player.cpp Campfire.cpp -o proj3
+Compile: g++ -std=c++17 inscryption-cmd.cpp Card.cpp Board.cpp Combat.cpp Map.cpp Player.cpp Campfire.cpp -o proj3 **Enter**
 Run: ./proj3
 
 ------------------------
