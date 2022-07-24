@@ -7,6 +7,7 @@ Created as a final project for CSCI 1300 at CU Boulder.
 FEATURES  
   
 Inscryption-CMD has a modular map and cards. The included defaults are map.txt and cards.txt, which contain the stock map ("The Snow Line"), and thirteen cards can be loaded but can also be modified to include whatever path and cards you want.  
+  
 COMBAT ENGINE  
   
 The combat system inside the game acts just like the original Inscryption, but can be modified in combat.cpp to add new features such as sigils. Combat engages from left to right.
